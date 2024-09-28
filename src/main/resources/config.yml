@@ -1,0 +1,12 @@
+bot:
+  token: "///"
+  report_channel_id: "///"
+  staff_roles: # Staff Roles ID(s) that can ban people from reporting (from discord)
+    - "///"
+
+admin:
+  use: reporty.admin
+  reload: reporty.reload
+  ban: reporty.ban
+  unban: reporty.unban
+  staff: reporty.staff

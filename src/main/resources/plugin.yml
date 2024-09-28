@@ -1,0 +1,8 @@
+name: Reporty
+version: '${project.version}'
+main: me.dovide.reporty.Reporty
+api-version: '1.20'
+authors: [Dovide]
+commands:
+  report:
+  reporty:
